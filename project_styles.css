@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.project-pages{
+
+    position: relative;
+    width: 100%;
+    height: 200vh;
+    background-color: #E4E3D9;
+
+}
+
+nav{
+
+    display: flex;
+    width: 800px;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: center;
+
+}
+
+nav ul li{
+
+    display: inline-block;
+    list-style: none;
+    margin: 30px 20px;
+
+}
+
+nav ul li a{
+
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+
+    color: #557546;
+
+}
+
+nav ul li a.current{
+
+    color: #557546
+
+}
+
+.back{
+
+    font-size: 150%;
+    position: absolute;
+    top: 15px;
+    left: 60px;
+}
+
+.content{
+    
+    position: relative;
+    padding: 80px;
+
+    background-color: #E4E3D9;
+
+}
+
+.content h1{
+
+    color: #2f4922;
+    font-size: 200%;
+    letter-spacing: 5px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+
+.content h2{
+    position: relative;
+    color: #2f4922;
+    font-size: 180%;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+
+}
+
+.content p{
+
+    line-height: 40px;
+    font-size: 90%;
+
+    font-family:  Arial, sans-serif;
+    letter-spacing: 1px;
+    position: relative;
+    color: rgb(34, 34, 34);
+
+}
+
+.content img{
+
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+
+}
+
+.idoc img{
+
+    margin: 60px 9px;
+}
+
+.intro{
+    position: relative;
+    margin-bottom: 200px;
+}
+
+img.title-card{
+    
+    display: block;
+    margin: 70px auto;
+    width: 100%;
+}
+
+.structure{
+    position: relative;
+    margin-bottom: 400px;
+}
+
+.structure h2{
+    left: 720px;
+    top: 110px;
+}
+
+.structure p{
+    width: 500px;
+    left: 720px;
+    top: 130px;
+}
+
+.structure img{
+
+    position: absolute;
+    width: 600px;
+    left: 50px;
+
+}
+
+img.porten{
+    left: 480px;
+    top: 270px;
+}
+
+
+
+.colors{
+    position: relative;
+    margin-bottom: 600px;
+    left: 60px;
+}
+
+.colors h2{
+    top: 400px;
+    left: 100px;
+}
+
+.colors p{
+
+    width: 700px;
+    left: 50px;
+    top: 440px;
+
+}
+
+.colors img{
+    position: absolute;
+    right: 200px;
+    top: 350px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.memory p{
+    width: 500px;
+    top: 20vh;
+    left: 90vh;
+}
+
+.memory img{
+
+    position: absolute;
+
+}
+
+.start{
+    top: 30vh;
+    left: 10vh;
+    height: 60vh;
+}
+
+.game{
+    display: block;
+    margin: 0 auto;
+}
+
+.game img{
+    position: relative;
+    width: 50vh;
+    top: 50vh;
+    margin: 2vh;
+}
