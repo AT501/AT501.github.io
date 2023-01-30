@@ -185,7 +185,7 @@ img.porten{
 .preview p{
     top: 7vh;
     left: 5vh;
-    width: 70vh;
+    width: 40vw;
 }
 
 .preview img{
@@ -219,7 +219,7 @@ img.chats{
 }
 
 .function p{
-    width: 10vh;
+    width: 100vh;
 }
 
 .function img{
