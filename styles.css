@@ -92,8 +92,6 @@ nav ul li a.current{
     left: 10vh;
 
     border-radius: 40px;
-    
-
     transition: margin 0.2s ease-in-out;
 
 }
