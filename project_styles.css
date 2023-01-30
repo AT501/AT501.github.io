@@ -103,7 +103,7 @@ nav ul li a.current{
 .content img{
 
     border-radius: 10px;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.342);
 
 }
 
@@ -180,6 +180,63 @@ img.porten{
     top: 350px;
     border-radius: 5px;
     width: 200px;
+}
+
+.preview p{
+    top: 7vh;
+    left: 5vh;
+    width: 70vh;
+}
+
+.preview img{
+    top: 30vh;
+    position: absolute;
+    height: 50vh;
+}
+
+img.page1{
+    top: 25vh;
+    right: 35vh;
+}
+
+img.week{
+    right: 60vh;
+}
+
+img.chats{
+    right: 10vh;
+}
+
+.prototype p{
+    width: 70vh;
+    top: 40vh;
+    left: 90vh;
+}
+
+.prototype img{
+    margin-top: 20vh;
+    width: 80vh;
+}
+
+.function p{
+    width: 10vh;
+}
+
+.function img{
+    margin-top: 20vh;
+    height: 50vh;
+}
+
+img.month{
+    right: 10vh;
+}
+
+img.chat{
+    right: 10vh;
+}
+
+img.notifs{
+    right: 10vh;
 }
 
 .memory p{
