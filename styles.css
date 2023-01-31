@@ -143,6 +143,7 @@ nav ul li a.current{
     left: 15vh;
     font-size: 120%;
 
+   
     background-color: #E4E3D9;
 
 }
@@ -184,7 +185,6 @@ nav ul li a.current{
 }
 
 .about{
-
     position: relative;
     width: 100%;
     height: 100vh;
@@ -231,7 +231,6 @@ nav ul li a.current{
 }
 
 .contact{
-
     position: relative;
     width: 100%;
     height: 100vh;
@@ -241,7 +240,7 @@ nav ul li a.current{
 }
 
 .projects{
-
+    
     position: relative;
     width: 101%;
     height: 225vh;
