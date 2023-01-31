@@ -218,8 +218,14 @@ img.chats{
     width: 80vh;
 }
 
+.function{
+    display: block;
+    margin: 200px 0;
+}
+
 .function p{
     width: 100vh;
+    margin: 10px;
 }
 
 .function img{
