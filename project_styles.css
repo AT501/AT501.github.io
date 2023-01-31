@@ -9,7 +9,7 @@
 
     position: relative;
     width: 100%;
-    height: 2800px;
+    height: auto;
     background-color: #E4E3D9;
 
     overflow: hidden;
@@ -187,6 +187,7 @@ img.porten{
 .hci{
     position: relative;
     display: flex;
+    height:2200px;
     width: 80%;
     align-items: stretch;
 }
@@ -238,7 +239,7 @@ img.chats{
 .prototype{
     position: absolute;
     top: 900px;
-    right:0;
+    left: 100px;
     margin: 15vh auto;
     display: block;
     width: 100vh;
@@ -247,7 +248,7 @@ img.chats{
 .prototype p{
     position: relative;
     text-align: justify;
-    left: 700px;
+    left: 900px;
     width: 400px;
     margin: 10px;
 
@@ -256,17 +257,17 @@ img.chats{
 .prototype img{
     position: relative;
     bottom: 400px;
-    right: 10vh;
-    width: 80vh;
+    right: 10px;
+    width: 800px;
 }
 
 .function{
     position: absolute;
     top:1650px;
-    left:100px;
+    right:100px;
     margin: 15vh auto;
     display: block;
-    width: 90%;
+    width: 100vh;
 }
 
 
@@ -301,6 +302,10 @@ img.notifs{
     left: 460px;
 }
 
+.memory{
+    height:1000px;
+}
+
 .memory p{
     width: 500px;
     top: 20vh;
@@ -319,14 +324,21 @@ img.notifs{
     height: 60vh;
 }
 
-.game{
-    display: block;
-    margin: 0 auto;
+.game img{
+    position: absolute;
+    top: 900px;
+    width: 400px;
+    margin: 20px;
 }
 
-.game img{
-    position: relative;
-    width: 50vh;
-    top: 50vh;
-    margin: 2vh;
+img.play{
+    left: 10vh
+}
+
+img.win{
+    left: 60vh
+}
+
+img.score{
+    left: 110vh;
 }
