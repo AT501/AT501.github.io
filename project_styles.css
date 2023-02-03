@@ -239,7 +239,7 @@ img.chats{
 .prototype{
     position: absolute;
     top: 900px;
-    left: 100px;
+    left: 0px;
     margin: 15vh auto;
     display: block;
     width: 100vh;
@@ -309,7 +309,7 @@ img.notifs{
 .memory p{
     width: 500px;
     top: 20vh;
-    left: 90vh;
+    left: 700px;
 }
 
 .memory img{
@@ -319,26 +319,26 @@ img.notifs{
 }
 
 .start{
-    top: 30vh;
+    top: 230px;
     left: 10vh;
     height: 500px;
 }
 
 .game img{
     position: absolute;
-    top: 900px;
+    top: 750px;
     width: 400px;
-    margin: 20px;
+    margin: 40px;
 }
 
 img.play{
-    left: 10vh
+    left: 5vw;
 }
 
 img.win{
-    left: 60vh
+    left: 35vw;
 }
 
 img.score{
-    left: 110vh;
+    left: 65vw;
 }
